@@ -1,0 +1,11 @@
+img {
+     border-radius: 150%;
+  width: 300px;
+}
+body {
+    text-align: center;
+}
+h2 {
+    color: darkslateblue;
+    font-family: serif;
+}
